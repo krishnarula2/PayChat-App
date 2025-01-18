@@ -1,4 +1,6 @@
-PayChat: A Simple Python Application for Payments and Messaging 💬💰
+PayChat: A Simple Python Application for Payments and Messaging! 💰
+
+
 PayChat is a straightforward Python-based app that allows users to manage payments and communicate through messages. Designed as a learning project, this app demonstrates the basics of user interaction, data management, and simple financial transactions in Python.
 
 Features:
